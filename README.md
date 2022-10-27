@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there, I am Julia! :wave:
 
-<!--
-**Auroria-code/Auroria-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:older_woman: born in 2002.
 
-Here are some ideas to get you started:
+:mortar_board: studying Computer Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:house: based in the Rhine-Main Metropolitan Region.
+
+:globe_with_meridians: my website: https://auroria.dev
+
+:couple: My Pronouns are She/her.
+
+:speech_balloon: How to reach me: 
+  - Matrix:  
