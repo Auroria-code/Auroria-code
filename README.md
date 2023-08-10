@@ -10,5 +10,4 @@
 
 :couple: My Pronouns are She/her.
 
-:speech_balloon: How to reach me: 
-  - Matrix:  
+:speech_balloon: How to reach me: [Matrix](https://matrix.to/#/@julia:auroria.dev)
